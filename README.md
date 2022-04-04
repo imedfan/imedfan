@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Artem Palkin
 - 🌱 I’m currently learning Python
 - 👨‍💻 I want to become a good back-end web developer
+- 👔 My resume - https://imedfan.github.io/resume/
 - 📫 How to reach me whisperkokomokokoho@gmail.com
 
 <!---
