@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Artem Palkin
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 👨‍💻 I want to become a good back-end web developer
-- 👔 My resume - https://imedfan.github.io/resume/
 - 📫 How to reach me whisperkokomokokoho@gmail.com
+- 📱 My Telegram - @imedfan
 
 <!---
 imedfan/imedfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
