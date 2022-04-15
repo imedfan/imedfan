@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artem Palkin
 - 🌱 I’m currently learning Java
-- 👨‍💻 I want to become a good back-end web developer
+- 👨‍💻 I want to become a good back-end developer (◔◡◔)
 - 📫 How to reach me whisperkokomokokoho@gmail.com
 - 📱 My Telegram - @imedfan
 
