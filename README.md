@@ -12,6 +12,7 @@ imedfan/imedfan is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-  
-  ![medfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imedfan&theme=graywhite&show_icons=true)
+
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=imedfan&theme=graywhite&show_icons=true" alt="medfan's Github Stats" width="60%">
   
