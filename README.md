@@ -1,4 +1,4 @@
-<img align="right" height="270px" alt="GIF" src="https://images.ctfassets.net/s5uo95nf6njh/6DaomigkquVKSPy96GlUH4/d6749a776a516fa519a5b9d06f2199a8/Rust_V3__1_.jpg?w=960&fm=webp" />
+<img align="right" src="https://images.ctfassets.net/s5uo95nf6njh/6DaomigkquVKSPy96GlUH4/d6749a776a516fa519a5b9d06f2199a8/Rust_V3__1_.jpg?w=960&fm=webp" />
 
 
 - 👋 Hi, I’m Artem
